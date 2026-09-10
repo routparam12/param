@@ -11,5 +11,63 @@
     "api_key_env": "PORTFOLIO_AI_API_KEY"
   },
   "max_readme_characters": 12000,
-  "repository_cache": {}
+  "repository_cache": {
+    "routparam12/MachineLearning-with-Bittu": {
+      "readme_sha": "72f1e4c039ced8259c57fe31e32de4101f6f2519",
+      "summary": {
+        "name": "MachineLearning-with-Bittu",
+        "tagline": "A playable machine-learning primer in Astro, in the style of The Evolution of Trust: you can't read your way forward, you have to beat the m",
+        "description": "A playable machine-learning primer in Astro, in the style of The Evolution of Trust: you can't read your way forward, you have to beat the mini-game in each chapter to unlock the next one. Bittu is the pet in the corner.",
+        "category": "Project",
+        "technologies": [
+          "classification",
+          "machine-learning",
+          "regression",
+          "supervised-learning",
+          "unsupervised-learning"
+        ],
+        "highlights": []
+      }
+    },
+    "routparam12/Learning-with-Bittu": {
+      "readme_sha": "72f1e4c039ced8259c57fe31e32de4101f6f2519",
+      "summary": {
+        "name": "Learning-with-Bittu",
+        "tagline": "Learning",
+        "description": "Learning",
+        "category": "Project",
+        "technologies": [
+          "JavaScript"
+        ],
+        "highlights": []
+      }
+    },
+    "routparam12/FaceInsight": {
+      "readme_sha": "4aa98a7df464efc9fbd4720698d5ac77953cca3d",
+      "summary": {
+        "name": "FaceInsight",
+        "tagline": "FastAPI backend for a face-recognition attendance system.",
+        "description": "FastAPI backend for a face-recognition attendance system.",
+        "category": "Project",
+        "technologies": [
+          "Python"
+        ],
+        "highlights": []
+      }
+    },
+    "routparam12/Searching-sorting": {
+      "readme_sha": "f0ebd51f64fb2b1079f483d9174f40b208613a6d",
+      "summary": {
+        "name": "Searching-sorting",
+        "tagline": "you type in your own array and press Next to walk an algorithm one move at a time. Hootie, the bespectacled owl, stands over the array — she",
+        "description": "you type in your own array and press Next to walk an algorithm one move at a time. Hootie, the bespectacled owl, stands over the array — she walks to whichever index the algorithm is looking at and explains the reason for every move.",
+        "category": "Project",
+        "technologies": [
+          "searching-algorithms",
+          "sorting-algorithms"
+        ],
+        "highlights": []
+      }
+    }
+  }
 }

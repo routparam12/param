@@ -1,4 +1,62 @@
 {
-  "generated_at": "2026-09-08T13:33:25.129169+00:00",
-  "projects": []
+  "generated_at": "2026-09-10T08:08:34.267144+00:00",
+  "projects": [
+    {
+      "name": "Learning-with-Bittu",
+      "tagline": "Learning",
+      "description": "Learning",
+      "category": "Project",
+      "technologies": [
+        "JavaScript"
+      ],
+      "highlights": [],
+      "url": "https://github.com/routparam12/Learning-with-Bittu",
+      "created_at": "2026-09-09T17:51:07Z",
+      "updated_at": "2026-09-09T17:52:28Z"
+    },
+    {
+      "name": "FaceInsight",
+      "tagline": "FastAPI backend for a face-recognition attendance system.",
+      "description": "FastAPI backend for a face-recognition attendance system.",
+      "category": "Project",
+      "technologies": [
+        "Python"
+      ],
+      "highlights": [],
+      "url": "https://github.com/routparam12/FaceInsight",
+      "created_at": "2026-09-06T19:02:07Z",
+      "updated_at": "2026-09-08T07:49:52Z"
+    },
+    {
+      "name": "MachineLearning-with-Bittu",
+      "tagline": "A playable machine-learning primer in Astro, in the style of The Evolution of Trust: you can't read your way forward, you have to beat the m",
+      "description": "A playable machine-learning primer in Astro, in the style of The Evolution of Trust: you can't read your way forward, you have to beat the mini-game in each chapter to unlock the next one. Bittu is the pet in the corner.",
+      "category": "Project",
+      "technologies": [
+        "classification",
+        "machine-learning",
+        "regression",
+        "supervised-learning",
+        "unsupervised-learning"
+      ],
+      "highlights": [],
+      "url": "https://github.com/routparam12/MachineLearning-with-Bittu",
+      "created_at": "2026-08-24T17:05:28Z",
+      "updated_at": "2026-09-09T17:55:42Z"
+    },
+    {
+      "name": "Searching-sorting",
+      "tagline": "you type in your own array and press Next to walk an algorithm one move at a time. Hootie, the bespectacled owl, stands over the array — she",
+      "description": "you type in your own array and press Next to walk an algorithm one move at a time. Hootie, the bespectacled owl, stands over the array — she walks to whichever index the algorithm is looking at and explains the reason for every move.",
+      "category": "Project",
+      "technologies": [
+        "searching-algorithms",
+        "sorting-algorithms"
+      ],
+      "highlights": [],
+      "url": "https://github.com/routparam12/Searching-sorting",
+      "created_at": "2026-08-24T06:19:26Z",
+      "updated_at": "2026-08-27T06:44:00Z"
+    }
+  ]
 }
