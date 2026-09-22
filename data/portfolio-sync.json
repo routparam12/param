@@ -13,7 +13,7 @@
   "max_readme_characters": 12000,
   "repository_cache": {
     "routparam12/MachineLearning-with-Bittu": {
-      "readme_sha": "72f1e4c039ced8259c57fe31e32de4101f6f2519",
+      "readme_sha": "2e0d7644f15bfaa373427009bcf716ac7979f757",
       "summary": {
         "name": "MachineLearning-with-Bittu",
         "tagline": "A playable machine-learning primer in Astro, in the style of The Evolution of Trust: you can't read your way forward, you have to beat the m",
@@ -30,7 +30,7 @@
       }
     },
     "routparam12/Learning-with-Bittu": {
-      "readme_sha": "72f1e4c039ced8259c57fe31e32de4101f6f2519",
+      "readme_sha": "2e0d7644f15bfaa373427009bcf716ac7979f757",
       "summary": {
         "name": "Learning-with-Bittu",
         "tagline": "Learning",
