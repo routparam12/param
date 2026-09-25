@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-09-22T08:32:41.721918+00:00",
+  "generated_at": "2026-09-25T08:49:19.963999+00:00",
   "projects": [
+    {
+      "name": "Plant-Scienctist",
+      "tagline": "A public GitHub project.",
+      "description": "A public GitHub project.",
+      "category": "Project",
+      "technologies": [
+        "Python"
+      ],
+      "highlights": [],
+      "url": "https://github.com/routparam12/Plant-Scienctist",
+      "created_at": "2026-09-24T12:41:57Z",
+      "updated_at": "2026-09-24T12:48:03Z"
+    },
     {
       "name": "Learning-with-Bittu",
       "tagline": "Learning",
@@ -12,7 +25,7 @@
       "highlights": [],
       "url": "https://github.com/routparam12/Learning-with-Bittu",
       "created_at": "2026-09-09T17:51:07Z",
-      "updated_at": "2026-09-21T07:35:46Z"
+      "updated_at": "2026-09-24T12:32:46Z"
     },
     {
       "name": "FaceInsight",
@@ -42,7 +55,7 @@
       "highlights": [],
       "url": "https://github.com/routparam12/MachineLearning-with-Bittu",
       "created_at": "2026-08-24T17:05:28Z",
-      "updated_at": "2026-09-21T06:40:04Z"
+      "updated_at": "2026-09-24T12:20:45Z"
     },
     {
       "name": "Searching-sorting",
