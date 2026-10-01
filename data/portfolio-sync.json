@@ -81,6 +81,19 @@
         ],
         "highlights": []
       }
+    },
+    "routparam12/Facedetect": {
+      "readme_sha": "5d8d12321cdfcb035a7ff44dcc6fb3a23d98562b",
+      "summary": {
+        "name": "Facedetect",
+        "tagline": "Face Detection – YuNet (OpenCV 5) + optional Haar + optional YOLO Goal: Detect whether a face is present in the camera feed.",
+        "description": "Face Detection – YuNet (OpenCV 5) + optional Haar + optional YOLO Goal: Detect whether a face is present in the camera feed.",
+        "category": "Project",
+        "technologies": [
+          "Python"
+        ],
+        "highlights": []
+      }
     }
   }
 }
