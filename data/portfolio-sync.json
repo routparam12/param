@@ -105,6 +105,19 @@
         "technologies": [],
         "highlights": []
       }
+    },
+    "routparam12/FaceRem": {
+      "readme_sha": "11006dfbe6090d18e53e0c0b628e95a72b6d460a",
+      "summary": {
+        "name": "FaceRem",
+        "tagline": "FaceAttend",
+        "description": "FaceAttend",
+        "category": "Project",
+        "technologies": [
+          "Python"
+        ],
+        "highlights": []
+      }
     }
   }
 }

@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-01T10:27:20.383740+00:00",
+  "generated_at": "2026-11-04T10:54:56.012407+00:00",
   "projects": [
+    {
+      "name": "FaceRem",
+      "tagline": "FaceAttend",
+      "description": "FaceAttend",
+      "category": "Project",
+      "technologies": [
+        "Python"
+      ],
+      "highlights": [],
+      "url": "https://github.com/routparam12/FaceRem",
+      "created_at": "2026-11-01T14:11:24Z",
+      "updated_at": "2026-11-04T07:29:55Z"
+    },
     {
       "name": "plants",
       "tagline": "A public GitHub project.",
