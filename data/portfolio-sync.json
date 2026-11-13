@@ -107,14 +107,14 @@
       }
     },
     "routparam12/FaceRem": {
-      "readme_sha": "11006dfbe6090d18e53e0c0b628e95a72b6d460a",
+      "readme_sha": "a331fb476aa3a7a5970af6320ed91f3c4c43e162",
       "summary": {
         "name": "FaceRem",
-        "tagline": "FaceAttend",
-        "description": "FaceAttend",
+        "tagline": "FaceAttend (FaceRem)",
+        "description": "FaceAttend (FaceRem)",
         "category": "Project",
         "technologies": [
-          "Python"
+          "Kotlin"
         ],
         "highlights": []
       }
@@ -127,6 +127,19 @@
         "description": "A public GitHub project.",
         "category": "Project",
         "technologies": [],
+        "highlights": []
+      }
+    },
+    "routparam12/Prism": {
+      "readme_sha": "3e8f3ca355d025ee268bd2b6c670b396f3a24fac",
+      "summary": {
+        "name": "Prism",
+        "tagline": "a fine-tuning service",
+        "description": "a fine-tuning service",
+        "category": "Project",
+        "technologies": [
+          "JavaScript"
+        ],
         "highlights": []
       }
     }

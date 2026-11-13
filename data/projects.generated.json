@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-10T11:11:39.505075+00:00",
+  "generated_at": "2026-11-13T10:58:15.415153+00:00",
   "projects": [
+    {
+      "name": "Prism",
+      "tagline": "a fine-tuning service",
+      "description": "a fine-tuning service",
+      "category": "Project",
+      "technologies": [
+        "JavaScript"
+      ],
+      "highlights": [],
+      "url": "https://github.com/routparam12/Prism",
+      "created_at": "2026-11-12T11:57:13Z",
+      "updated_at": "2026-11-12T18:44:48Z"
+    },
     {
       "name": "Live-Shadi",
       "tagline": "A public GitHub project.",
@@ -14,16 +27,16 @@
     },
     {
       "name": "FaceRem",
-      "tagline": "FaceAttend",
-      "description": "FaceAttend",
+      "tagline": "FaceAttend (FaceRem)",
+      "description": "FaceAttend (FaceRem)",
       "category": "Project",
       "technologies": [
-        "Python"
+        "Kotlin"
       ],
       "highlights": [],
       "url": "https://github.com/routparam12/FaceRem",
       "created_at": "2026-11-01T14:11:24Z",
-      "updated_at": "2026-11-05T11:08:54Z"
+      "updated_at": "2026-11-12T05:18:32Z"
     },
     {
       "name": "plants",
