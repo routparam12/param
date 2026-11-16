@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-13T10:58:15.415153+00:00",
+  "generated_at": "2026-11-16T11:16:45.370158+00:00",
   "projects": [
+    {
+      "name": "Yaadgaar",
+      "tagline": "Yaadgaar streams weddings and other ceremonies live for guests who couldn't attend, saves every ceremony forever as a replayable archive, pu",
+      "description": "Yaadgaar streams weddings and other ceremonies live for guests who couldn't attend, saves every ceremony forever as a replayable archive, puts a QR code on the invitation card that opens the event, and turns the couple's photos (uploaded, or pulled from Google Drive/Dropbox) into a page-flip digital wedding album.",
+      "category": "Project",
+      "technologies": [
+        "TypeScript"
+      ],
+      "highlights": [],
+      "url": "https://github.com/routparam12/Yaadgaar",
+      "created_at": "2026-11-14T17:27:11Z",
+      "updated_at": "2026-11-14T17:28:17Z"
+    },
     {
       "name": "Prism",
       "tagline": "a fine-tuning service",

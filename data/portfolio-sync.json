@@ -142,6 +142,19 @@
         ],
         "highlights": []
       }
+    },
+    "routparam12/Yaadgaar": {
+      "readme_sha": "",
+      "summary": {
+        "name": "Yaadgaar",
+        "tagline": "Yaadgaar streams weddings and other ceremonies live for guests who couldn't attend, saves every ceremony forever as a replayable archive, pu",
+        "description": "Yaadgaar streams weddings and other ceremonies live for guests who couldn't attend, saves every ceremony forever as a replayable archive, puts a QR code on the invitation card that opens the event, and turns the couple's photos (uploaded, or pulled from Google Drive/Dropbox) into a page-flip digital wedding album.",
+        "category": "Project",
+        "technologies": [
+          "TypeScript"
+        ],
+        "highlights": []
+      }
     }
   }
 }
